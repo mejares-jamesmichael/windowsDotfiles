@@ -1,0 +1,257 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "id": "User.copy.644BA8F2"
+        },
+        {
+            "command": "paste",
+            "id": "User.paste"
+        },
+        {
+            "command": "find",
+            "id": "User.find"
+        },
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "id": "User.splitPane.A6751878"
+        }
+    ],
+    "alwaysOnTop": true,
+    "alwaysShowNotificationIcon": false,
+    "alwaysShowTabs": true,
+    "autoHideWindow": false,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+    "disableAnimations": false,
+    "focusFollowMouse": true,
+    "initialCols": 90,
+    "initialRows": 30,
+    "keybindings": 
+    [
+        {
+            "id": "User.copy.644BA8F2",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "User.find",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "User.paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "User.splitPane.A6751878",
+            "keys": "alt+shift+d"
+        }
+    ],
+    "minimizeToNotificationArea": false,
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "adjustIndistinguishableColors": "indexed",
+            "backgroundImage": null,
+            "backgroundImageOpacity": 0.5,
+            "colorScheme": "One Half Dark",
+            "cursorShape": "vintage",
+            "experimental.retroTerminalEffect": false,
+            "font": 
+            {
+                "builtinGlyphs": false,
+                "face": "JetBrainsMono Nerd Font Mono",
+                "size": 12,
+                "weight": "normal"
+            },
+            "intenseTextStyle": "bright",
+            "opacity": 50,
+            "useAcrylic": true
+        },
+        "list": 
+        [
+            {
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell"
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt"
+            },
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": false,
+                "name": "Azure Cloud Shell",
+                "source": "Windows.Terminal.Azure"
+            },
+            {
+                "elevate": false,
+                "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+                "hidden": false,
+                "name": "PowerShell",
+                "source": "Windows.Terminal.PowershellCore"
+            },
+            {
+                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+                "hidden": false,
+                "name": "Git Bash",
+                "source": "Git"
+            },
+            {
+                "guid": "{771ff2db-fb3b-5ff4-8b8b-2cefceb281d4}",
+                "hidden": false,
+                "name": "Developer Command Prompt for VS 2022",
+                "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{5d2f92d1-bfa1-574b-a68e-2a23806b624a}",
+                "hidden": false,
+                "name": "Developer PowerShell for VS 2022",
+                "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
+                "hidden": false,
+                "name": "Ubuntu",
+                "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc"
+            },
+            {
+                "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+                "hidden": true,
+                "name": "Ubuntu",
+                "source": "Windows.Terminal.Wsl"
+            },
+            {
+                "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
+                "hidden": false,
+                "name": "kali-linux",
+                "source": "Windows.Terminal.Wsl"
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#1E1F29",
+            "black": "#000000",
+            "blue": "#BD93F9",
+            "brightBlack": "#555555",
+            "brightBlue": "#BD93F9",
+            "brightCyan": "#8BE9FD",
+            "brightGreen": "#50FA7B",
+            "brightPurple": "#FF79C6",
+            "brightRed": "#FF5555",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#F1FA8C",
+            "cursorColor": "#BBBBBB",
+            "cyan": "#8BE9FD",
+            "foreground": "#F8F8F2",
+            "green": "#50FA7B",
+            "name": "Dracula",
+            "purple": "#FF79C6",
+            "red": "#FF5555",
+            "selectionBackground": "#44475A",
+            "white": "#BBBBBB",
+            "yellow": "#F1FA8C"
+        },
+        {
+            "background": "#1F1D27",
+            "black": "#1F1D27",
+            "blue": "#FFC284",
+            "brightBlack": "#353147",
+            "brightBlue": "#FFC284",
+            "brightCyan": "#2488FF",
+            "brightGreen": "#2DCD73",
+            "brightPurple": "#DE8D40",
+            "brightRed": "#D9393E",
+            "brightWhite": "#EAE5FF",
+            "brightYellow": "#D9B76E",
+            "cursorColor": "#FF9839",
+            "cyan": "#2488FF",
+            "foreground": "#B7A1FF",
+            "green": "#2DCD73",
+            "name": "Duotone Dark",
+            "purple": "#DE8D40",
+            "red": "#D9393E",
+            "selectionBackground": "#353147",
+            "white": "#B7A1FF",
+            "yellow": "#D9B76E"
+        },
+        {
+            "background": "#1D1F21",
+            "black": "#1D1D19",
+            "blue": "#5096BE",
+            "brightBlack": "#1D1D19",
+            "brightBlue": "#61B9D0",
+            "brightCyan": "#D63865",
+            "brightGreen": "#A7D42C",
+            "brightPurple": "#695ABC",
+            "brightRed": "#D22A24",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FF8949",
+            "cursorColor": "#708284",
+            "cyan": "#D63865",
+            "foreground": "#B8DBEF",
+            "green": "#9FD364",
+            "name": "Flatland",
+            "purple": "#695ABC",
+            "red": "#F18339",
+            "selectionBackground": "#2B2A24",
+            "white": "#FFFFFF",
+            "yellow": "#F4EF6D"
+        },
+        {
+            "background": "#1E1E2E",
+            "black": "#45475A",
+            "blue": "#89B4FA",
+            "brightBlack": "#585B70",
+            "brightBlue": "#89B4FA",
+            "brightCyan": "#94E2D5",
+            "brightGreen": "#A6E3A1",
+            "brightPurple": "#F5C2E7",
+            "brightRed": "#F38BA8",
+            "brightWhite": "#A6ADC8",
+            "brightYellow": "#F9E2AF",
+            "cursorColor": "#F5E0DC",
+            "cyan": "#94E2D5",
+            "foreground": "#CDD6F4",
+            "green": "#A6E3A1",
+            "name": "catppuccin-mocha",
+            "purple": "#F5C2E7",
+            "red": "#F38BA8",
+            "selectionBackground": "#585B70",
+            "white": "#BAC2DE",
+            "yellow": "#F9E2AF"
+        }
+    ],
+    "showTabsInTitlebar": true,
+    "showTerminalTitleInTitlebar": false,
+    "snapToGridOnResize": false,
+    "tabWidthMode": "equal",
+    "theme": "dark",
+    "themes": [],
+    "useAcrylicInTabRow": true
+}
