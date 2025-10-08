@@ -1,0 +1,1511 @@
+time=2025-10-07T12:54:37.396+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-07T12:54:37.504+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T12:54:37.504+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T12:55:38.064+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-07T12:55:38.109+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T12:55:38.109+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T12:56:14.821+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:15.155+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:19.607+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:20.103+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:20.290+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:20.515+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:21.016+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:21.509+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:21.876+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:22.320+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:22.545+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:22.871+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:24.238+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:24.436+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:24.803+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:25.059+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T12:56:25.314+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:25.497+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:25.683+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:26.036+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:26.513+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:26.726+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:27.206+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:27.454+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:29.066+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T12:56:38.446+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:56:38.472+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:56:38.908+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:56:38.942+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:56:39.270+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T12:56:40.256+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:56:40.289+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:56:41.524+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:56:41.564+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:56:50.506+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Documents\\My Videos: Access is denied."
+time=2025-10-07T12:56:50.516+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Documents\\My Videos: Access is denied."
+time=2025-10-07T12:56:51.461+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Documents\\My Videos: Access is denied."
+time=2025-10-07T12:56:51.474+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Documents\\My Videos: Access is denied."
+time=2025-10-07T12:56:51.882+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Documents\\My Pictures: Access is denied."
+time=2025-10-07T12:56:51.905+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Documents\\My Pictures: Access is denied."
+time=2025-10-07T12:56:52.290+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Documents\\My Music: Access is denied."
+time=2025-10-07T12:56:52.307+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Documents\\My Music: Access is denied."
+time=2025-10-07T12:57:44.639+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-07T12:57:44.703+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T12:57:44.703+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T12:58:55.307+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-07T12:58:55.362+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T12:58:55.362+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T12:58:58.164+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-07T12:58:58.177+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-07T12:58:58.721+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:58:58.740+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:59:00.065+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:59:00.090+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T12:59:06.752+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:06.761+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:06.772+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:06.777+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:35.074+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:35.089+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:35.100+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:35.111+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:45.620+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Recent: Access is denied."
+time=2025-10-07T12:59:45.636+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Recent: Access is denied."
+time=2025-10-07T12:59:46.557+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:46.568+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:46.576+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T12:59:46.586+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:00:10.498+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\Default\\PrintHood: Access is denied."
+time=2025-10-07T13:00:10.516+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\Default\\PrintHood: Access is denied."
+time=2025-10-07T13:00:10.528+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\Default\\PrintHood: Access is denied."
+time=2025-10-07T13:00:10.536+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\Default\\PrintHood: Access is denied."
+time=2025-10-07T13:00:11.858+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\Default\\PrintHood: Access is denied."
+time=2025-10-07T13:00:11.886+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\Default\\PrintHood: Access is denied."
+time=2025-10-07T13:00:11.904+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\Default\\PrintHood: Access is denied."
+time=2025-10-07T13:02:34.011+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:02:34.064+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:02:38.550+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:02:39.107+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:02:39.827+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:02:40.462+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:02:40.971+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:02:41.714+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:02:42.296+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:02:42.625+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:02:43.673+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-07T13:02:44.614+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:13:36.992+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-07T13:13:37.048+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T13:13:37.048+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T13:18:01.917+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-07T13:18:01.991+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T13:18:01.991+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T13:22:16.599+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:16.616+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:17.684+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:17.702+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:18.137+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:18.156+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:18.352+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:18.366+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:18.791+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:18.817+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:19.556+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:19.571+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:20.057+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:20.076+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:21.301+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:21.314+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:21.564+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:21.577+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:21.977+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:21.992+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:22:53.193+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:53.926+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:54.435+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:54.812+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:55.030+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:55.465+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:55.692+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:55.854+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:56.072+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:56.290+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:56.590+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:56.708+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:56.813+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:56.916+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:56.960+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:22:57.050+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.130+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.228+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.272+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:22:57.336+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:22:57.383+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.432+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.478+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.563+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.651+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.738+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.778+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.849+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.938+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:57.982+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:22:58.063+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:58.153+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:58.236+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:58.321+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:58.419+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:59.237+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:59.692+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:22:59.978+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:00.166+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:00.389+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:00.579+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:01.160+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:01.331+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:01.481+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:23:01.666+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:23:02.086+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:02.502+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:02.680+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:02.920+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:03.341+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:23:03.551+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-07T13:23:03.798+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-07T13:24:36.406+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:24:36.424+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:24:37.331+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:24:37.352+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:24:38.793+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:24:38.807+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:12.490+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:12.515+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:16.278+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:16.309+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:17.205+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:17.232+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:17.819+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:17.838+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:18.679+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:18.700+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:18.972+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:18.999+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:19.623+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:19.655+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:19.867+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:19.900+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:20.131+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:20.160+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:20.571+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:20.596+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:20.978+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:21.002+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:21.393+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:21.416+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:21.581+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:21.599+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:21.891+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:21.938+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:22.767+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:22.805+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:22.951+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:22.973+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:23.994+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.019+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.212+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.241+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.452+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.481+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.667+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.703+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.873+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:24.902+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:25.844+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:25.876+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:25.892+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:25.908+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:25.929+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:25.942+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:28.945+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:28.962+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:28.989+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.011+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.040+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.067+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.095+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.117+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.137+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.175+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.201+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.239+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.265+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.309+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.341+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.374+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.400+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.423+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.447+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.483+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.509+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:29.538+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:30.408+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:30.429+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:30.584+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:30.614+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:30.726+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:30.753+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.439+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.469+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.492+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.527+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.549+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.574+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.603+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.622+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.631+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.661+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.680+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:31.694+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.168+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.188+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.218+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.238+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.278+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.313+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.346+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.368+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.397+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:45.421+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.840+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.857+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.873+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.889+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.904+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.925+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.938+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.955+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.971+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:54.993+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.010+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.028+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.042+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.058+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.071+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.081+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.097+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.108+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.125+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.140+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.173+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.198+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.339+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.358+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.379+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.398+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.461+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:55.485+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:56.429+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:56.445+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:56.466+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:56.483+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:56.782+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:56.806+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:57.270+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:57.308+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:57.349+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:57.373+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:57.389+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:57.404+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:59.093+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:59.114+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:59.710+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:28:59.728+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:29:00.745+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:29:00.765+08:00 level=ERROR msg="Max lines reached" maxLines=35
+time=2025-10-07T13:29:03.861+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:03.872+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:03.881+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:03.889+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:30.620+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:30.628+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:30.633+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:30.640+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:32.634+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:29:32.641+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:30:28.916+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:30:28.926+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:30:28.934+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:30:28.942+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-07T13:41:21.546+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-07T13:41:21.618+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-07T13:41:21.618+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:21:17.098+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:21:17.126+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:21:17.126+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:25:22.740+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:25:22.764+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:25:22.764+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:25:36.342+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T03:25:36.400+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T03:26:04.671+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:26:04.687+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:26:04.687+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:28:55.671+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:28:55.701+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:28:55.701+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:30:18.437+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:30:18.457+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:30:18.457+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:31:00.879+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:31:00.897+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:31:00.897+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:32:22.210+08:00 level=ERROR msg="Could not read user's theme file. Falling back to default theme" path="C:\\Users\\James Michael\\AppData\\Local\\superfile\\theme\\ayudark.toml" error="open C:\\Users\\James Michael\\AppData\\Local\\superfile\\theme\\ayudark.toml: The system cannot find the file specified."
+time=2025-10-08T03:32:22.254+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:32:22.255+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:32:22.255+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:33:05.103+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:33:05.124+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:33:05.126+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:33:21.675+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:33:21.695+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:33:21.696+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:33:55.085+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:33:55.104+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:33:55.104+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:41:00.094+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:41:00.112+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:41:00.112+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:41:51.140+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:41:51.162+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:41:51.162+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:42:29.454+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T03:42:29.470+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T03:42:29.470+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T04:48:14.722+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T04:48:14.758+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T04:48:14.758+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:04:56.134+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:04:56.153+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:04:56.153+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:05:00.691+08:00 level=ERROR msg="Error render directory preview" error="open C:\\$Recycle.Bin\\S-1-5-18: Access is denied."
+time=2025-10-08T05:05:00.725+08:00 level=ERROR msg="Error render directory preview" error="open C:\\$Recycle.Bin\\S-1-5-18: Access is denied."
+time=2025-10-08T05:05:04.279+08:00 level=ERROR msg="Error render directory preview" error="open C:\\$Recycle.Bin\\S-1-5-18: Access is denied."
+time=2025-10-08T05:05:04.284+08:00 level=ERROR msg="Error render directory preview" error="open C:\\$Recycle.Bin\\S-1-5-18: Access is denied."
+time=2025-10-08T05:05:06.439+08:00 level=ERROR msg="Error while return folder element function" error="open C:\\$Recycle.Bin\\S-1-5-18: Access is denied."
+time=2025-10-08T05:05:07.252+08:00 level=ERROR msg="Error render directory preview" error="open C:\\$Recycle.Bin\\S-1-5-18: Access is denied."
+time=2025-10-08T05:05:07.256+08:00 level=ERROR msg="Error render directory preview" error="open C:\\$Recycle.Bin\\S-1-5-18: Access is denied."
+time=2025-10-08T05:05:10.289+08:00 level=ERROR msg="Error render directory preview" error="open C:\\PerfLogs: Access is denied."
+time=2025-10-08T05:05:10.294+08:00 level=ERROR msg="Error render directory preview" error="open C:\\PerfLogs: Access is denied."
+time=2025-10-08T05:05:11.272+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Recovery: Access is denied."
+time=2025-10-08T05:05:11.277+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Recovery: Access is denied."
+time=2025-10-08T05:06:02.600+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:06:02.624+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:06:02.624+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:06:05.398+08:00 level=ERROR msg="Error render directory preview" error="open C:\\PerfLogs: Access is denied."
+time=2025-10-08T05:06:05.403+08:00 level=ERROR msg="Error render directory preview" error="open C:\\PerfLogs: Access is denied."
+time=2025-10-08T05:06:06.141+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Recovery: Access is denied."
+time=2025-10-08T05:06:06.145+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Recovery: Access is denied."
+time=2025-10-08T05:06:06.535+08:00 level=ERROR msg="Error render directory preview" error="open C:\\System Repair: Access is denied."
+time=2025-10-08T05:06:06.542+08:00 level=ERROR msg="Error render directory preview" error="open C:\\System Repair: Access is denied."
+time=2025-10-08T05:06:06.920+08:00 level=ERROR msg="Error render directory preview" error="open C:\\System Volume Information: Access is denied."
+time=2025-10-08T05:06:06.925+08:00 level=ERROR msg="Error render directory preview" error="open C:\\System Volume Information: Access is denied."
+time=2025-10-08T05:09:22.032+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:09:22.053+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:09:22.053+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:09:55.242+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:09:55.259+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:09:55.259+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:10:10.735+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-08T05:10:10.740+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-08T05:10:10.744+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-08T05:10:34.040+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:10:34.057+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:10:34.057+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:11:22.427+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:11:22.445+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:11:22.445+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:14:31.512+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:14:31.534+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:14:31.534+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:17:18.598+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:17:18.616+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:17:18.616+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:17:21.758+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-08T05:17:21.764+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-08T05:17:21.770+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-08T05:17:21.775+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-08T05:18:24.999+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:18:25.014+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:18:25.014+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:18:35.273+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T05:18:36.066+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-08T05:18:44.842+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T05:19:29.599+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T05:19:30.605+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-08T05:19:31.308+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T05:19:32.108+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T05:19:32.947+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T05:19:33.677+08:00 level=ERROR msg="exif error" error="exif: failed to find exif intro marker"
+time=2025-10-08T05:19:34.316+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T05:19:35.250+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T05:19:35.924+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T05:48:09.142+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:48:09.183+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:48:09.183+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:48:15.820+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T05:48:15.858+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:48:15.858+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T05:48:17.378+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:17.391+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:20.683+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:20.700+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:20.725+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:20.742+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:20.757+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:20.772+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:20.788+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:20.800+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:21.872+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:21.886+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:22.051+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:22.068+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:22.238+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T05:48:22.249+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:04:47.770+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T18:04:47.815+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:04:47.815+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:06:33.880+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:33.897+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:34.821+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:34.841+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:35.582+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:40.921+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:40.944+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:40.979+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:41.008+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:41.042+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:41.067+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:41.090+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:41.120+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:41.145+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:42.681+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:42.715+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:42.935+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:42.975+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.000+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.031+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.056+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.075+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.100+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.128+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.308+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.336+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.367+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.397+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.422+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.455+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.480+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:43.506+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:44.939+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.442+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.466+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.494+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.524+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.550+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.587+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.612+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.635+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.653+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.891+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:45.920+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:50.926+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:50.964+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:51.718+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:51.738+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:51.764+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:51.780+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:51.801+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:51.830+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:51.847+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:51.866+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:54.544+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:06:54.559+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.060+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.090+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.122+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.161+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.187+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.216+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.239+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.261+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.291+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.324+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.352+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.375+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.410+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:11.435+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.528+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.552+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.576+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.603+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.625+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.648+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.674+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.709+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.735+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.762+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.790+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:12.814+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:13.322+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:13.355+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:13.378+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:16.516+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T18:07:16.552+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:07:16.552+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:07:17.577+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:17.589+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:18.382+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:18.396+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:19.942+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.884+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.902+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.913+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.925+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.935+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.944+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.954+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.960+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:24.971+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:38.286+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:38.314+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:41.598+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T18:07:41.630+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:07:41.630+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:07:42.463+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:42.478+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:43.635+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:43.648+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:46.294+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.322+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.354+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.387+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.413+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.438+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.454+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.469+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.479+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:48.489+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.106+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.123+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.139+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.152+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.222+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.238+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.250+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.260+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.273+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.284+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.327+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.341+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.912+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:07:50.925+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:25.982+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T18:08:26.021+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:08:26.021+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:08:26.695+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:26.710+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:28.060+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.623+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.634+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.645+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.653+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.663+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.673+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.680+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.689+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:45.696+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:52.514+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.293+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.307+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.318+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.331+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.341+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.349+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.358+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.369+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:57.377+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:58.726+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:58.737+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:08:58.749+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:10.917+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T18:09:10.951+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:09:10.951+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:09:11.957+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:11.972+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:13.247+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.162+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.190+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.229+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.262+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.289+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.318+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.343+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.368+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:20.395+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.272+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.296+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.324+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.357+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.380+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.410+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.437+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.467+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.543+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.569+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.604+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.631+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.658+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.687+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.711+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:22.739+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.087+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.115+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.337+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.367+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.394+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.424+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.496+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.525+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.560+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:23.585+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:37.277+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T18:09:37.311+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:09:37.311+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T18:09:37.961+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:37.978+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:39.069+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:39.080+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:41.213+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.703+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.713+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.721+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.732+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.743+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.756+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.762+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.770+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:49.780+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:51.297+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T18:09:51.313+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:25:19.193+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T21:25:19.235+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T21:25:19.235+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T21:25:19.917+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T21:25:20.701+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T21:26:23.748+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T21:26:23.788+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T21:26:23.788+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T21:26:24.286+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T21:26:24.458+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T21:28:14.030+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T21:28:14.072+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T21:28:14.072+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T21:28:14.953+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T21:28:15.109+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T21:28:22.021+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T21:28:30.838+08:00 level=ERROR msg="exif orientation error" error="exif: tag \"Orientation\" is not present"
+time=2025-10-08T21:30:27.607+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:27.616+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:30.045+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.537+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.547+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.560+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.570+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.583+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.592+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.597+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.608+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:30:47.611+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:03.710+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:03.728+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:04.882+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:04.899+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:05.775+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:05.795+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:12.445+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:12.462+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:18.626+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:18.645+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:23.316+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:23.334+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.657+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.672+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.694+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.712+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.722+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.731+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.747+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.758+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.796+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.811+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.876+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.893+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.907+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:26.923+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.159+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.174+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.189+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.195+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.214+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.225+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.237+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.250+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.258+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.271+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.274+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.291+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.428+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.441+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.510+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:27.523+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:28.446+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:28.468+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:29.920+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:29.936+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:31.102+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:31.121+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:32.178+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:32.197+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:33.321+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:33.340+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:34.511+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:34.526+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:36.844+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:36.861+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:38.739+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.046+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.060+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.080+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.095+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.111+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.124+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.136+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.143+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:39.155+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:51.342+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:51.398+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:31:53.684+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.413+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.426+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.440+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.456+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.474+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.490+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.505+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.516+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:06.527+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:08.515+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:08.530+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:23.112+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T21:32:23.175+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T21:32:23.135+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:23.175+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T21:32:23.192+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:23.206+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:23.223+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:23.235+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:23.246+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:25.056+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.092+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.108+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.121+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.132+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.143+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.152+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.161+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.168+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:32:36.179+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.546+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.562+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.581+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.598+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.622+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.644+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.659+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.674+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.692+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.706+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.722+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.739+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.755+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:52.771+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.403+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.421+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.444+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.466+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.492+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.518+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.541+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.565+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.889+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.905+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.925+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.941+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.949+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:53.975+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.278+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.295+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.309+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.332+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.348+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.363+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.376+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.392+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.407+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.425+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.439+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.454+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.478+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.494+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.511+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.526+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.543+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.558+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.574+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.589+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.608+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.626+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.641+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.654+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.667+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.684+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.733+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.749+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.766+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.784+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.795+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.815+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.829+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.844+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.855+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.874+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.881+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.901+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.915+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.932+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.951+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.970+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:54.987+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.000+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.017+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.038+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.207+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.223+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.242+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.258+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.277+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.291+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.310+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.323+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.336+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:55.359+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.243+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.260+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.280+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.298+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.315+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.332+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.341+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.361+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.374+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:56.390+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:57.935+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:57.949+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:59.623+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:59.637+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:59.659+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:37:59.673+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:38:00.788+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T21:38:00.802+08:00 level=ERROR msg="Max lines reached" maxLines=26
+time=2025-10-08T23:02:15.487+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T23:02:15.510+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T23:02:15.510+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T23:02:20.644+08:00 level=ERROR msg="exif error" error=EOF
+time=2025-10-08T23:25:11.656+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T23:25:11.679+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T23:25:11.679+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T23:59:10.734+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-08T23:59:10.752+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T23:59:10.752+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-08T23:59:13.476+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:13.492+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:14.249+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:14.259+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:15.868+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:15.879+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:16.550+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:16.562+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:20.707+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:20.719+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:21.636+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:21.642+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:22.534+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:22.536+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:24.238+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:24.249+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:26.656+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:26.681+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.590+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.602+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.844+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.859+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.878+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.892+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.906+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.912+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.942+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.955+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.972+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:28.982+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.003+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.015+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.032+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.039+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.090+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.102+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.117+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.123+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.142+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.149+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.178+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.191+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.203+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.209+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.242+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.256+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.264+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.269+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.301+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:29.311+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:42.727+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:42.739+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:42.983+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:42.995+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.009+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.018+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.059+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.069+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.083+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.090+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.121+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.132+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.154+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.162+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.186+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.195+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.553+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.568+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.766+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.778+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.925+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:43.935+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:45.162+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:45.173+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:45.411+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:45.426+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:45.445+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:45.453+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:45.470+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:45.478+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:50.524+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:50.534+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:52.532+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:52.543+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:54.419+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:54.431+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:54.477+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:54.493+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.347+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.359+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.532+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.545+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.557+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.568+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.602+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.612+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.622+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.629+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.713+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.727+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.737+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.747+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.760+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.763+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.769+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.777+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.845+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.857+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.868+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.881+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.932+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.945+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.955+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-08T23:59:59.962+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:00.461+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:00.474+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:00.659+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:00.664+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:00.669+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:00.674+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:01.198+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:01.207+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:01.722+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:01.729+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:02.253+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:02.264+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:02.481+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:02.496+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:02.780+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:02.784+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:11.414+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:11.425+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:00:22.987+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-09T00:00:23.008+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:00:23.008+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:03:14.126+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-09T00:03:14.142+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:03:14.143+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:03:18.454+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Templates: Access is denied."
+time=2025-10-09T00:03:18.462+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Templates: Access is denied."
+time=2025-10-09T00:03:19.498+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Start Menu: Access is denied."
+time=2025-10-09T00:03:19.510+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Start Menu: Access is denied."
+time=2025-10-09T00:03:19.767+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\SendTo: Access is denied."
+time=2025-10-09T00:03:19.772+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\SendTo: Access is denied."
+time=2025-10-09T00:03:19.792+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Recent: Access is denied."
+time=2025-10-09T00:03:19.796+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Recent: Access is denied."
+time=2025-10-09T00:03:19.825+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-09T00:03:19.829+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\PrintHood: Access is denied."
+time=2025-10-09T00:03:20.010+08:00 level=ERROR msg="Error while checking text file" error="open C:\\Users\\James Michael\\ntuser.dat.LOG2: The process cannot access the file because it is being used by another process."
+time=2025-10-09T00:03:20.016+08:00 level=ERROR msg="Error while checking text file" error="open C:\\Users\\James Michael\\ntuser.dat.LOG2: The process cannot access the file because it is being used by another process."
+time=2025-10-09T00:03:20.243+08:00 level=ERROR msg="Error while checking text file" error="open C:\\Users\\James Michael\\ntuser.dat.LOG1: The process cannot access the file because it is being used by another process."
+time=2025-10-09T00:03:20.255+08:00 level=ERROR msg="Error while checking text file" error="open C:\\Users\\James Michael\\ntuser.dat.LOG1: The process cannot access the file because it is being used by another process."
+time=2025-10-09T00:03:20.485+08:00 level=ERROR msg="Error while checking text file" error="open C:\\Users\\James Michael\\NTUSER.DAT: The process cannot access the file because it is being used by another process."
+time=2025-10-09T00:03:20.494+08:00 level=ERROR msg="Error while checking text file" error="open C:\\Users\\James Michael\\NTUSER.DAT: The process cannot access the file because it is being used by another process."
+time=2025-10-09T00:03:20.520+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\NetHood: Access is denied."
+time=2025-10-09T00:03:20.525+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\NetHood: Access is denied."
+time=2025-10-09T00:03:20.551+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\My Documents: Access is denied."
+time=2025-10-09T00:03:20.558+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\My Documents: Access is denied."
+time=2025-10-09T00:03:20.584+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Local Settings: Access is denied."
+time=2025-10-09T00:03:20.590+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Local Settings: Access is denied."
+time=2025-10-09T00:03:20.615+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:03:20.619+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:03:20.664+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:03:20.676+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:03:20.681+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:03:20.684+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:03:22.025+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Templates: Access is denied."
+time=2025-10-09T00:03:22.031+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Templates: Access is denied."
+time=2025-10-09T00:03:22.067+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Start Menu: Access is denied."
+time=2025-10-09T00:03:22.073+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Start Menu: Access is denied."
+time=2025-10-09T00:03:22.273+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\SendTo: Access is denied."
+time=2025-10-09T00:03:22.278+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\SendTo: Access is denied."
+time=2025-10-09T00:03:23.004+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Start Menu: Access is denied."
+time=2025-10-09T00:03:23.010+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Start Menu: Access is denied."
+time=2025-10-09T00:03:23.255+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Templates: Access is denied."
+time=2025-10-09T00:03:23.258+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Templates: Access is denied."
+time=2025-10-09T00:04:54.686+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-09T00:04:54.703+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:04:54.703+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:05:03.639+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-09T00:05:03.662+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:05:03.662+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:08:43.369+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-09T00:08:43.392+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:08:43.392+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:09:12.042+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:12.048+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:15.626+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:15.636+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:17.570+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:17.580+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:18.929+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:18.940+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:19.534+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:19.548+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.625+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.639+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.649+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.657+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.668+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.674+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.678+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.682+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.699+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.710+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.720+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.725+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.732+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.732+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.741+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.748+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.756+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.762+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.764+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.774+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.780+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.783+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.789+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.797+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.806+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.806+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.813+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.824+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.830+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.837+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.839+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.846+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.893+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.901+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.908+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.914+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.919+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.924+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.932+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.937+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.942+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.948+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.958+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.964+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.972+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.980+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.980+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.990+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:22.994+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.005+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.011+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.022+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.028+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.032+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.039+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.045+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.045+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.058+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.063+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.066+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.073+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:23.077+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:48.434+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:48.441+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:49.365+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:49.377+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:49.505+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:49.516+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:09:59.169+08:00 level=ERROR msg="Command execution failed" retCode=1 error="exit status 1" output="\\Users\\James : The term '\\Users\\James' is not recognized as the name of a cmdlet, \r\nfunction, script file, or operable program. Check the spelling of the name, or if a path \r\nwas included, verify that the path is correct and try again.\r\nAt line:1 char:1\r\n+ \\Users\\James Michael\\coolGithub\\windowsDotfiles\r\n+ ~~~~~~~~~~~~\r\n    + CategoryInfo          : ObjectNotFound: (\\Users\\James:String) [], CommandNotFoundE \r\n   xception\r\n    + FullyQualifiedErrorId : CommandNotFoundException\r\n \r\n"
+time=2025-10-09T00:10:27.681+08:00 level=ERROR msg="Command execution failed" retCode=1 error="exit status 1" output="\\Users\\James : The term '\\Users\\James' is not recognized as the name of a cmdlet, \r\nfunction, script file, or operable program. Check the spelling of the name, or if a path \r\nwas included, verify that the path is correct and try again.\r\nAt line:1 char:1\r\n+ \\Users\\James Michael\\coolGithub\\windowsDotfiles\r\n+ ~~~~~~~~~~~~\r\n    + CategoryInfo          : ObjectNotFound: (\\Users\\James:String) [], CommandNotFoundE \r\n   xception\r\n    + FullyQualifiedErrorId : CommandNotFoundException\r\n \r\n"
+time=2025-10-09T00:10:49.127+08:00 level=ERROR msg="Command execution failed" retCode=1 error="exit status 1" output="\\Users\\James : The term '\\Users\\James' is not recognized as the name of a cmdlet, \r\nfunction, script file, or operable program. Check the spelling of the name, or if a path \r\nwas included, verify that the path is correct and try again.\r\nAt line:1 char:1\r\n+ \\Users\\James Michael\\coolGithub\\windowsDotfiles\r\n+ ~~~~~~~~~~~~\r\n    + CategoryInfo          : ObjectNotFound: (\\Users\\James:String) [], CommandNotFoundE \r\n   xception\r\n    + FullyQualifiedErrorId : CommandNotFoundException\r\n \r\n"
+time=2025-10-09T00:11:03.931+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:11:03.934+08:00 level=ERROR msg="Clipboard render function get item state " error="CreateFile C:\\Users\\James Michael\\coolGithub\\windowsDotfiles\\starship.toml: The system cannot find the file specified."
+time=2025-10-09T00:11:03.944+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:11:03.947+08:00 level=ERROR msg="Clipboard render function get item state " error="CreateFile C:\\Users\\James Michael\\coolGithub\\windowsDotfiles\\starship.toml: The system cannot find the file specified."
+time=2025-10-09T00:11:03.954+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:11:03.962+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:11:07.779+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:11:07.790+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:11:10.029+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:11:10.040+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:15:44.021+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-09T00:15:44.036+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:15:44.036+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:15:44.030+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:15:44.042+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:15:44.049+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:15:44.049+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:15:44.058+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:15:44.064+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:11.802+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:11.805+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:11.812+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:11.816+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:11.913+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:11.919+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:11.922+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:11.927+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:12.444+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:12.448+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:12.587+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:12.590+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:12.972+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:12.978+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Application Data: Access is denied."
+time=2025-10-09T00:16:21.405+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:21.417+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:24.636+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:24.649+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:24.753+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:24.765+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:25.623+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:25.636+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:26.192+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:26.201+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:26.398+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:26.404+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:31.691+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:31.703+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:32.987+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:33.000+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:33.132+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:33.143+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:34.223+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:34.232+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:35.040+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:35.049+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:35.199+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:35.209+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:35.689+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:35.702+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:36.089+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:36.100+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:36.189+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:36.202+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:45.614+08:00 level=ERROR msg="error while creating new panel" error="maximum panel count reached"
+time=2025-10-09T00:16:45.627+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:45.639+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:51.534+08:00 level=ERROR msg="error while creating new panel" error="maximum panel count reached"
+time=2025-10-09T00:16:51.548+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:51.559+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:54.017+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:54.030+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:55.249+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:55.261+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:56.181+08:00 level=ERROR msg="error while creating new panel" error="maximum panel count reached"
+time=2025-10-09T00:16:56.195+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:56.205+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:57.019+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:57.031+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:57.686+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:57.697+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:58.149+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:16:58.167+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:01.856+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:01.868+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.643+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.659+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.667+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.674+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.679+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.685+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.690+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.696+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.701+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.708+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.714+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.721+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.726+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.731+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.735+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.740+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.745+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.753+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.756+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.762+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.766+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.775+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.779+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:03.782+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:07.284+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:07.294+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:07.328+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:07.341+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:08.019+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:08.026+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:11.167+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:11.174+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:11.181+08:00 level=ERROR msg="Max lines reached" maxLines=31
+time=2025-10-09T00:17:15.044+08:00 level=INFO msg="Using Windows default terminal cell size"
+time=2025-10-09T00:17:15.063+08:00 level=INFO msg="Successfully detected terminal cell size on Windows" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:17:15.063+08:00 level=INFO msg="Terminal cell size detection" pixels_per_column=8 pixels_per_row=16
+time=2025-10-09T00:17:15.058+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:15.072+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:15.083+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:15.090+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:15.100+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:15.109+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:21.530+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:21.552+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:25.809+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:25.830+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:25.871+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:25.888+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.036+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.050+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.063+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.073+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.082+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.091+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.103+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.113+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.123+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.131+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.143+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.152+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.163+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:27.171+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:31.339+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:31.348+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:31.354+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:31.364+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:31.868+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:31.873+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:32.401+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:32.406+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:32.932+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:32.938+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:33.311+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:33.319+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:33.465+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:33.473+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:33.993+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:34.001+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:36.536+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:36.544+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:36.552+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:36.557+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:37.070+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:37.074+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:37.598+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:37.603+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:37.623+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:37.630+08:00 level=ERROR msg="Error render directory preview" error="open C:\\Users\\James Michael\\Cookies: Access is denied."
+time=2025-10-09T00:17:45.666+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.671+08:00 level=ERROR msg="Error unexpected file extension type: .toml" error="unsupported operation"
+time=2025-10-09T00:17:45.687+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.699+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.707+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.716+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.723+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.730+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.739+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.748+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:45.755+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:50.139+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:50.158+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:50.917+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:50.933+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:51.896+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:51.911+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:52.066+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:52.082+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:52.810+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:52.831+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.410+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.428+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.677+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.693+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.703+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.712+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.735+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.748+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.763+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.773+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.801+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.812+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.829+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.840+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.860+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.872+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.897+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.910+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.923+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.931+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.958+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:53.972+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.008+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.024+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.034+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.042+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.059+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.066+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.098+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.111+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.129+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.141+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.159+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.168+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.191+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.205+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.219+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.232+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.251+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.260+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.306+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.317+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.325+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.332+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.365+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.376+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.390+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.396+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.427+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.443+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.907+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:54.922+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.163+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.177+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.185+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.195+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.217+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.226+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.252+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.266+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.279+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.286+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.303+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.358+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.375+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.389+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.403+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.409+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.417+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.425+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.434+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:17:55.441+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.643+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.657+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.666+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.675+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.683+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.690+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.697+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.707+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.713+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.721+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.729+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.738+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.746+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.752+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.762+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.769+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.777+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.786+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.794+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.801+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.810+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.817+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.823+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.837+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.848+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.858+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.866+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:13.874+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:16.699+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:16.718+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:16.730+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:16.738+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:20.528+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:20.537+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:22.837+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:22.846+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:23.720+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:23.741+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:24.014+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:24.030+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:29.501+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:29.515+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:30.733+08:00 level=ERROR msg="Max lines reached" maxLines=50
+time=2025-10-09T00:18:30.749+08:00 level=ERROR msg="Max lines reached" maxLines=50
