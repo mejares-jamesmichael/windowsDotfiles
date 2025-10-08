@@ -8,6 +8,14 @@ This repository contains my personal dotfiles and settings for Windows Terminal 
 
 **Note:** This README is a work in progress and will be updated with more details and documentation in the future.
 
+## Preview
+
+Here are some screenshots:
+
+![pic1](pictures/pic1.png)
+![pic2](pictures/pic2.png)
+![pic3](pictures/pic3.png)
+
 ## Features
 
 - Custom Windows Terminal settings
@@ -21,6 +29,8 @@ This repository contains my personal dotfiles and settings for Windows Terminal 
   - [superfile](https://github.com/sxyazi/superfile): Lightweight file explorer
   - [fastfetch](https://github.com/fastfetch-cli/fastfetch): Neofetch-like system info tool
   - [winfetch](https://github.com/kiedtl/winfetch): Windows system info fetcher
+  - [lazygit](https://github.com/jesseduffield/lazygit): Git terminal
+  - [Neovim](https://github.com/neovim/neovim): Terminal text editor
 
 ## Getting Started
 
@@ -34,6 +44,8 @@ This repository contains my personal dotfiles and settings for Windows Terminal 
 - [superfile](https://github.com/sxyazi/superfile)
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [winfetch](https://github.com/kiedtl/winfetch)
+- [lazygit](https://github.com/jesseduffield/lazygit)
+- [Neovim](https://github.com/neovim/neovim)
 
 > Follow the respective installation guides for each tool linked above.
 
@@ -45,7 +57,7 @@ This repository contains my personal dotfiles and settings for Windows Terminal 
    ```
 2. Locate the configuration directories for each application:
    - **Windows Terminal:**  
-     `%USERPROFILE%\Documents\PowerShell\Microsoft.PowerShell_profile.ps1`
+     `%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState`
    - **GlazeWM:**  
      `%USERPROFILE%\.glzr\.glazewm`
    - **Zebar:**  
@@ -74,14 +86,14 @@ Feel free to edit any configuration file to suit your preferences:
 
 ```text
 windowsDotfiles/
-├── Windows Terminal/     # Windows Terminal configuration
+├── settings.json         # Windows Terminal configuration
 ├── glazewm/              # GlazeWM configuration files
 ├── zebar/                # Zebar configuration files
 ├── yazi/                 # yazi file manager configs
 ├── superfile/            # superfile explorer configs
 ├── fastfetch/            # fastfetch configs
 ├── winfetch/             # winfetch configs
-├── powershell/           # powershell profile configs
+├── pictures/             # Screenshots and images for README
 └── README.md             # Project documentation
 ```
 
@@ -95,6 +107,10 @@ A: Restore your original configuration files from a backup or reset settings in 
 
 **Q: Can I use only some configs?**  
 A: Yes, you can pick and choose which application's configs to use.
+
+## Contributing
+
+Pull requests and suggestions are welcome! Please open an issue or PR if you have improvements or ideas.
 
 ## License
 
