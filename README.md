@@ -86,7 +86,7 @@ Feel free to edit any configuration file to suit your preferences:
 
 ```text
 windowsDotfiles/
-├── settings.json         # Windows Terminal configuration
+├── Windows Terminal      # Windows Terminal configuration
 ├── glazewm/              # GlazeWM configuration files
 ├── zebar/                # Zebar configuration files
 ├── yazi/                 # yazi file manager configs
@@ -94,6 +94,7 @@ windowsDotfiles/
 ├── fastfetch/            # fastfetch configs
 ├── winfetch/             # winfetch configs
 ├── pictures/             # Screenshots and images for README
+├── powershell/           # powershell profile config
 └── README.md             # Project documentation
 ```
 
