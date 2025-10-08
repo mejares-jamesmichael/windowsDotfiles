@@ -1,0 +1,98 @@
+# ~/.config/starship.toml
+
+format = """
+$username in $directory$git_branch$git_status$nodejs$python$java$php$golang$rust$docker_context$cmd_duration
+$character"""
+
+# Prompt character
+[character]
+success_symbol = "[❯](green)"
+error_symbol = "[❯](red)"
+
+# User
+[username]
+show_always = true
+style_user = "bold blue"
+style_root = "bold red"
+format = "[$user]($style)"
+
+# Host
+[hostname]
+ssh_only = false
+format = "[@$hostname](dimmed white) "
+trim_at = "."
+disabled = false
+
+# Directory
+[directory]
+style = "blue"
+read_only = "🔒"
+read_only_style = "red"
+truncation_length = 3
+truncate_to_repo = true
+format = "[$path]($style) [$read_only]($read_only_style)"
+
+# Git branch
+[git_branch]
+symbol = ""
+style = "purple"
+format = "on [$symbol $branch]($style)"
+
+# Git status
+[git_status]
+style = "cyan"
+conflicted = "⚠"
+ahead = "⇡"
+behind = "⇣"
+diverged = "⇕"
+untracked = "?"
+stashed = "📦"
+modified = "✚"
+staged = "●"
+deleted = "✘"
+renamed = "➜"
+format = "([ $all_status]($style)) "
+
+# Node.js
+[nodejs]
+symbol = "⬢"
+format = "via [$symbol $version]($style) "
+style = "green"
+
+# Python
+[python]
+symbol = "🐍"
+format = "via [$symbol $version]($style) "
+style = "yellow"
+pyenv_version_name = true
+
+[rust]
+symbol = "🦀"
+format = "via [$symbol $version]($style) "
+style = "red"
+
+[golang]
+symbol = "🐹"
+format = "via [$symbol $version]($style) "
+style = "cyan"
+
+[php]
+symbol = "🐘"
+format = "via [$symbol $version]($style) "
+style = "magenta"
+
+[java]
+symbol = "☕"
+format = "via [$symbol $version]($style) "
+style = "yellow"
+
+[docker_context]
+symbol = "🐳"
+format = "via [$symbol $context]($style)  "
+style = "blue bold"
+
+# Command duration
+[cmd_duration]
+min_time = 1000
+format = "took [$duration]($style) "
+style = "bold yellow"
