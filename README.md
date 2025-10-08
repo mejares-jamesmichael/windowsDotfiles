@@ -74,13 +74,14 @@ Feel free to edit any configuration file to suit your preferences:
 
 ```text
 windowsDotfiles/
-├── settings.json         # Windows Terminal configuration
+├── Windows Terminal/     # Windows Terminal configuration
 ├── glazewm/              # GlazeWM configuration files
 ├── zebar/                # Zebar configuration files
 ├── yazi/                 # yazi file manager configs
 ├── superfile/            # superfile explorer configs
 ├── fastfetch/            # fastfetch configs
 ├── winfetch/             # winfetch configs
+├── powershell/           # powershell profile configs
 └── README.md             # Project documentation
 ```
 
@@ -94,10 +95,6 @@ A: Restore your original configuration files from a backup or reset settings in 
 
 **Q: Can I use only some configs?**  
 A: Yes, you can pick and choose which application's configs to use.
-
-## Contributing
-
-Pull requests and suggestions are welcome! Please open an issue or PR if you have improvements or ideas.
 
 ## License
 
