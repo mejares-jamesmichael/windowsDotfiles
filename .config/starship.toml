@@ -1,98 +1,423 @@
 # ~/.config/starship.toml
+# Zenful Starship Configuration v2 - Enhanced with Additional Components
 
+add_newline = true
+command_timeout = 2000
+
+# Calm, flowing format - left side: context, right side: tech stack
 format = """
-$username in $directory$git_branch$git_status$nodejs$python$java$php$golang$rust$docker_context$cmd_duration
+$os\
+$username\
+$hostname\
+$localip\
+$directory\
+$docker_context\
+$kubernetes\
+$terraform\
+$aws\
+$gcloud\
+$container\
+$fill\
+$git_branch\
+$git_status\
+$git_metrics\
+$package\
+$nodejs\
+$python\
+$rust\
+$golang\
+$java\
+$php\
+$lua\
+$ruby\
+$dart\
+$elixir\
+$bun\
+$deno\
+$gradle\
+$conda\
+$cmd_duration\
+$time
+$jobs\
+$battery\
+$memory_usage\
+$shlvl\
 $character"""
 
-# Prompt character
-[character]
-success_symbol = "[❯](green)"
-error_symbol = "[❯](red)"
+# Fill - creates breathing space
+[fill]
+symbol = " "
 
-# User
+# OS icon - subtle system indicator
+[os]
+disabled = false
+format = "[$symbol]($style) "
+
+[os.symbols]
+Macos = "󰀵"
+Linux = "󰌽"
+Windows = ""
+Arch = "󰣇"
+Ubuntu = "󰕈"
+Debian = "󰣚"
+Fedora = "󰣛"
+Manjaro = "󱘊"
+
+# Username - peaceful presence
 [username]
 show_always = true
-style_user = "bold blue"
+style_user = "dimmed cyan"
 style_root = "bold red"
-format = "[$user]($style)"
+format = "[$user]($style) "
 
-# Host
+# Hostname - only on SSH
 [hostname]
-ssh_only = false
-format = "[@$hostname](dimmed white) "
+ssh_only = true
+ssh_symbol = "󰢹 "
+format = "[$ssh_symbol](dimmed blue)[@$hostname](dimmed white) "
 trim_at = "."
-disabled = false
 
-# Directory
+# Local IP - optional, for network awareness
+[localip]
+ssh_only = false
+disabled = true
+format = "[@$localipv4](dimmed purple) "
+
+# Directory - serene navigation
 [directory]
-style = "blue"
-read_only = "🔒"
-read_only_style = "red"
+style = "bold blue"
+read_only = " 󰌾"
+read_only_style = "dimmed red"
 truncation_length = 3
 truncate_to_repo = true
-format = "[$path]($style) [$read_only]($read_only_style)"
+truncation_symbol = "…/"
+format = "[$path]($style)[$read_only]($read_only_style) "
+home_symbol = "󰋜"
 
-# Git branch
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = "󰉍 "
+"Music" = "󰝚 "
+"Pictures" = "󰉏 "
+"Videos" = "󰕧 "
+"projects" = "󱧼 "
+"code" = "󰲋 "
+".config" = "󱁿 "
+"Desktop" = "󰚝 "
+
+# Git branch - gentle purple
 [git_branch]
-symbol = ""
-style = "purple"
-format = "on [$symbol $branch]($style)"
+symbol = "󰘬 "
+style = "dimmed purple"
+format = "[$symbol$branch]($style) "
+truncation_length = 30
+truncation_symbol = "…"
 
-# Git status
+# Git status - minimal zen
 [git_status]
-style = "cyan"
-conflicted = "⚠"
-ahead = "⇡"
-behind = "⇣"
-diverged = "⇕"
-untracked = "?"
-stashed = "📦"
-modified = "✚"
-staged = "●"
-deleted = "✘"
-renamed = "➜"
-format = "([ $all_status]($style)) "
+style = "dimmed cyan"
+format = "([$all_status$ahead_behind]($style) )"
+
+# Simple, peaceful indicators
+conflicted = "󰞇 "
+untracked = "󰋗 "
+stashed = "󰏖 "
+modified = "󰏫 "
+staged = "󰄬 "
+renamed = "󰁖 "
+deleted = "󰍶 "
+
+# Flow indicators
+ahead = "󰜷 "
+behind = "󰜮 "
+diverged = "󰹺 "
+up_to_date = ""
+
+# Git metrics - optional, calming stats
+[git_metrics]
+disabled = true
+added_style = "dimmed green"
+deleted_style = "dimmed red"
+format = "([ $added ]($added_style)[  $deleted ]($deleted_style))"
+only_nonzero_diffs = true
+
+# Command duration - mindful timing
+[cmd_duration]
+min_time = 3000
+format = "[ $duration]($style) "
+style = "dimmed yellow"
+show_milliseconds = false
+
+# Time - optional, present moment
+[time]
+disabled = true
+time_format = "%R"
+format = "[$time]($style) "
+style = "dimmed white"
+
+# Character - zen prompt symbol
+[character]
+success_symbol = "[󰘧](green)"
+error_symbol = "[󰘧](red)"
+vimcmd_symbol = "[󰘧](dimmed green)"
+
+# Package version
+[package]
+disabled = false
+format = "[ $version]($style) "
+symbol = "󰏗"
+style = "dimmed 208"
 
 # Node.js
 [nodejs]
-symbol = "⬢"
-format = "via [$symbol $version]($style) "
-style = "green"
+symbol = "󰎙"
+format = "[$symbol $version ]($style)"
+style = "dimmed green"
+detect_extensions = ["js", "mjs", "cjs", "ts", "mts", "cts"]
+detect_files = ["package.json", ".node-version"]
 
 # Python
 [python]
-symbol = "🐍"
-format = "via [$symbol $version]($style) "
-style = "yellow"
-pyenv_version_name = true
+symbol = "󰌠"
+format = "[$symbol $version ]($style)"
+style = "dimmed yellow"
+pyenv_version_name = false
+detect_extensions = ["py"]
+detect_files = ["requirements.txt", "pyproject.toml"]
 
+# Rust
 [rust]
-symbol = "🦀"
-format = "via [$symbol $version]($style) "
-style = "red"
+symbol = "󱘗"
+format = "[$symbol $version ]($style)"
+style = "dimmed red"
+detect_extensions = ["rs"]
+detect_files = ["Cargo.toml"]
 
+# Golang
 [golang]
-symbol = "🐹"
-format = "via [$symbol $version]($style) "
-style = "cyan"
+symbol = "󰟓"
+format = "[$symbol $version ]($style)"
+style = "dimmed cyan"
+detect_extensions = ["go"]
+detect_files = ["go.mod"]
 
+# PHP
 [php]
-symbol = "🐘"
-format = "via [$symbol $version]($style) "
-style = "magenta"
+symbol = "󰌟"
+format = "[$symbol $version ]($style)"
+style = "dimmed magenta"
+detect_extensions = ["php"]
+detect_files = ["composer.json"]
 
+# Java
 [java]
-symbol = "☕"
-format = "via [$symbol $version]($style) "
-style = "yellow"
+symbol = "󰬷"
+format = "[$symbol $version ]($style)"
+style = "dimmed yellow"
+detect_extensions = ["java", "class", "jar"]
+detect_files = ["pom.xml", "build.gradle"]
 
+# Lua
+[lua]
+symbol = "󰢱"
+format = "[$symbol $version ]($style)"
+style = "dimmed blue"
+detect_extensions = ["lua"]
+detect_files = [".lua-version"]
+
+# Ruby
+[ruby]
+symbol = "󰴭"
+format = "[$symbol $version ]($style)"
+style = "dimmed red"
+detect_extensions = ["rb"]
+detect_files = ["Gemfile"]
+
+# Dart
+[dart]
+symbol = "󰄉"
+format = "[$symbol $version ]($style)"
+style = "dimmed blue"
+detect_extensions = ["dart"]
+detect_files = ["pubspec.yaml"]
+
+# Elixir
+[elixir]
+symbol = "󰟪"
+format = "[$symbol $version ]($style)"
+style = "dimmed purple"
+detect_files = ["mix.exs"]
+
+# C
+[c]
+symbol = "󰙱"
+format = "[$symbol $version ]($style)"
+style = "dimmed 149"
+detect_extensions = ["c", "h"]
+
+# Docker
 [docker_context]
-symbol = "🐳"
-format = "via [$symbol $context]($style)  "
-style = "blue bold"
+symbol = "󰡨 "
+format = "[$symbol]($style)"
+style = "dimmed blue"
+only_with_files = true
+detect_files = ["docker-compose.yml", "docker-compose.yaml", "Dockerfile"]
+detect_extensions = []
+detect_folders = []
 
-# Command duration
-[cmd_duration]
-min_time = 1000
-format = "took [$duration]($style) "
-style = "bold yellow"
+# Kubernetes - cloud native
+[kubernetes]
+disabled = false
+symbol = "󱃾"
+format = "[$symbol $context]($style) "
+style = "dimmed cyan"
+detect_files = ["k8s"]
+
+# Terraform - infrastructure
+[terraform]
+disabled = false
+symbol = "󱁢"
+format = "[$symbol $workspace ]($style)"
+style = "dimmed purple"
+detect_extensions = ["tf"]
+detect_files = ["terraform.tfvars"]
+
+# AWS - cloud awareness
+[aws]
+disabled = false
+symbol = "󰸏"
+format = "[$symbol $profile ]($style)"
+style = "dimmed yellow"
+
+# Google Cloud
+[gcloud]
+disabled = false
+symbol = "󱇶"
+format = "[$symbol $account ]($style)"
+style = "dimmed blue"
+
+# Container indicator
+[container]
+disabled = false
+symbol = "󰆧"
+format = "[$symbol $name ]($style)"
+style = "dimmed yellow"
+
+# Battery - energy awareness
+[battery]
+disabled = true
+full_symbol = "󰁹"
+charging_symbol = "󰂄"
+discharging_symbol = "󰂃"
+unknown_symbol = "󰂑"
+empty_symbol = "󰂎"
+format = "[$symbol$percentage ]($style)"
+
+[[battery.display]]
+threshold = 20
+style = "dimmed red"
+discharging_symbol = "󰂃"
+
+[[battery.display]]
+threshold = 50
+style = "dimmed yellow"
+discharging_symbol = "󰁿"
+
+[[battery.display]]
+threshold = 100
+style = "dimmed green"
+
+# Memory usage - resource mindfulness
+[memory_usage]
+disabled = true
+threshold = 75
+format = "[ $ram ]($style)"
+symbol = "󰍛"
+style = "dimmed white"
+
+# Status - error awareness
+[status]
+disabled = false
+format = "[$symbol ]($style)"
+symbol = "󰅙"
+success_symbol = ""
+style = "dimmed red"
+map_symbol = false
+
+# Jobs - background awareness
+[jobs]
+disabled = false
+symbol = "󰔟"
+number_threshold = 1
+symbol_threshold = 1
+format = "[$symbol$number ]($style)"
+style = "dimmed blue"
+
+# Additional development tools
+
+# Bun - modern JS runtime
+[bun]
+disabled = false
+symbol = "󰃀"
+format = "[$symbol $version ]($style)"
+style = "dimmed red"
+detect_files = ["bun.lockb"]
+
+# Deno - secure runtime
+[deno]
+disabled = false
+symbol = "󰛦"
+format = "[$symbol $version ]($style)"
+style = "dimmed green"
+detect_files = ["deno.json"]
+
+# Gradle - Java build
+[gradle]
+disabled = false
+symbol = "󰟶"
+format = "[$symbol $version ]($style)"
+style = "dimmed cyan"
+detect_files = ["build.gradle"]
+
+# Conda - Python environment
+[conda]
+disabled = false
+symbol = "󰔮"
+format = "[$symbol $environment ]($style)"
+style = "dimmed green"
+
+# Git commit - detached state
+[git_commit]
+disabled = false
+commit_hash_length = 7
+format = "[$hash$tag ]($style)"
+style = "dimmed green"
+only_detached = true
+tag_symbol = " 󰓹 "
+
+# Git state - operation awareness
+[git_state]
+disabled = false
+format = "[$state $progress_current/$progress_total ]($style)"
+style = "dimmed yellow"
+
+# Direnv - environment management
+[direnv]
+disabled = false
+format = "[$symbol$loaded ]($style)"
+symbol = "󱃾"
+style = "dimmed orange"
+loaded_msg = "󰄬"
+unloaded_msg = "󰋗"
+
+# Shlvl - shell depth
+[shlvl]
+disabled = false
+threshold = 2
+format = "[$symbol$shlvl ]($style)"
+symbol = "󰒲"
+style = "dimmed yellow"
+
+# Line break
+[line_break]
+disabled = false
