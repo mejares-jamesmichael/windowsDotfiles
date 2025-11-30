@@ -1,3 +1,8 @@
+<details>
+<summary>Spoiler</summary>
+I am now using Komorebi(TWM) and YASB(Stats Bar)
+</details>
+
 # windowsDotfiles
 
 A collection of configuration files for customizing the Windows Terminal experience and related productivity tools.
